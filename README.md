@@ -106,6 +106,11 @@ CropCircle wird über Abhängigkeiten eingebunden und seine UI-Komponenten in de
 
 ---
 
+## .jar Datei
+Die .jar Datei im release oder [hier](https://github.com/khudhurayaz/CropCircleTool/releases/download/stabil/CropCircle-1.0.0.jar) herunterladen und im Projekt einbinden!
+
+---
+
 ## Troubleshooting
 
 - Fehlende Icons oder CSS -> prüfen, ob Ressourcen im JAR im Pfad `de/khudhurayaz/cropCircle/` enthalten sind.
