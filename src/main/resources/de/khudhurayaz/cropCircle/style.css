@@ -1,0 +1,75 @@
+.root {
+    -fx-background-color: #222;
+}
+
+.controls {
+    -fx-background-color: #333;
+    -fx-padding: 20;
+    -fx-spacing: 10;
+}
+
+.title {
+    -fx-text-fill: white;
+    -fx-font-size: 20px;
+    -fx-padding: 20;
+}
+
+.footer {
+    -fx-text-fill: gray;
+    -fx-font-size: 12px;
+    -fx-padding: 10;
+}
+
+.slider {
+    -fx-control-inner-background: #333;
+    -fx-background-color: #444;
+    -fx-border-color: #666;
+    -fx-border-radius: 6;
+}
+
+.separator {
+    -fx-background-color: linear-gradient(to right, #4e54c8, #8f94fb);
+    -fx-background-radius: 2;
+    -fx-effect: dropshadow(gaussian, #00000055, 2, 0.5, 0, 1);
+}
+
+. hintLabel {
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-background-color: rgba(0,0,0,0.5);
+    -fx-padding: 4;
+    -fx-background-radius: 6;
+}
+
+.previewPane {
+    -fx-background-color: #c1c1c1;
+    -fx-background-radius: 10;
+    -fx-border-color: #555;
+    -fx-border-width: 2;
+    -fx-border-radius: 8;
+    -fx-padding: 10;
+}
+
+.white {
+    -fx-text-fill: #fff;
+}
+
+.button {
+    -fx-background-color: #3a3a3a;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-padding: 8 16;
+    -fx-background-radius: 6;
+    -fx-border-color: #666;
+    -fx-border-width: 1;
+}
+
+.button:hover {
+    -fx-background-color: #555;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-padding: 8 16;
+    -fx-background-radius: 6;
+    -fx-border-color: #666;
+    -fx-border-width: 1;
+}
