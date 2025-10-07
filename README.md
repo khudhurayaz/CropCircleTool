@@ -24,7 +24,7 @@ dependencies {
 
 ## Voraussetzungen
 
-- **Java**: 23
+- **Java**: 22
 - **JavaFX**: 21.0.6
 - **Build-Tool**: Maven oder Gradle (je nach Host-Projekt)
 
@@ -82,11 +82,3 @@ new de.khudhurayaz.cropCircle.CropCircle(stage).createApp();
 - Fehlende Icons oder CSS -> prüfen, ob Ressourcen im JAR im Pfad `de/khudhurayaz/cropCircle/` enthalten sind.
 - JavaFX Module nicht gefunden -> JavaFX Abhängigkeiten in Host-Projekt hinzufügen und JVM-Args bzw. Plugin konfigurieren.
 - Bei modularen Builds -> Modul-Exports und --add-mods/--add-exports entsprechend setzen.
-
----
-
-## Versionen und Lizenz
-
-- **Projektversion**: 1.0.0
-- **Empfohlene Java**: 23
-- **Empfohlene JavaFX**: 21.0.6
