@@ -24,7 +24,7 @@ dependencies {
 
 ## Voraussetzungen
 
-- **Java**: 22
+- **Java**: 23
 - **JavaFX**: 21.0.6
 - **Build-Tool**: Maven oder Gradle (je nach Host-Projekt)
 
