@@ -8,7 +8,7 @@ CropCircle ist eine Java-Bibliothek mit JavaFX-UI-Komponenten zur Anzeige, Vorsc
 ```xml
 <dependency>
     <groupId>de.khudhurayaz</groupId>
-    <artifactId>CropCircle</artifactId>
+    <artifactId>cropcircle</artifactId>
     <version>1.0.0</version>
 </dependency>
 ```
