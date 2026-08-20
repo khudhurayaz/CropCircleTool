@@ -13,13 +13,6 @@ CropCircle ist eine Java-Bibliothek mit JavaFX-UI-Komponenten zur Anzeige, Vorsc
 </dependency>
 ```
 
-### Gradle
-```gradle
-dependencies {
-    implementation 'de.khudhurayaz:CropCircle:1.0.0'
-}
-```
-
 ---
 
 ## Voraussetzungen
