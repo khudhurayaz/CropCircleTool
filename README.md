@@ -17,7 +17,7 @@ CropCircle ist eine Java-Bibliothek mit JavaFX-UI-Komponenten zur Anzeige, Vorsc
 
 ## Voraussetzungen
 
-- **Java**: 23
+- **Java**: 21
 - **JavaFX**: 21.0.6
 - **Build-Tool**: Maven oder Gradle (je nach Host-Projekt)
 
@@ -34,7 +34,7 @@ Entwickler, die CropCircle in ihr Projekt einbinden, müssen sowohl CropCircle a
 ```xml
 <dependency>
     <groupId>de.khudhurayaz</groupId>
-    <artifactId>CropCircle</artifactId>
+    <artifactId>cropCircle</artifactId>
     <version>1.0.0</version>
 </dependency>
 ```
